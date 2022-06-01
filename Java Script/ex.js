@@ -1,0 +1,1 @@
+document.write("file ini berasal dari ex.js");
